@@ -11,4 +11,4 @@ In this prediction, we first analyzed the data to find that age, gender, class, 
 
 * Passengers between the ages of 20 and 45 have better survival rates.
 
-In contrast to this project, the decision tree algorithm is more accurate than the linear classifier.Through this project, I think that if we need to be more accurate, we can also choose random forest, KNN and other algorithms.
+Through this project, the decision tree algorithm is more accurate than the linear classifier. I think that if we need to be more accurate, we can also choose random forest, KNN and other algorithms.
